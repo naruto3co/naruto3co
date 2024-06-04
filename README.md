@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tôi đang làm việc tại TCBS từ 2022<br>Tôi sinh năm 1999<br>Tốt nghiệm Học Viện Kĩ Thuật Mật Mã ( KMA )<br>
+Tôi đang làm việc tại TCBS từ 2022<br>Tôi sinh năm 1999<br>Tốt nghiệm Học Viện Kĩ Thuật Mật Mã ( KMA )<br>Code Reviewer<br>Pentester
 
 
 ## 🌐 Socials:
